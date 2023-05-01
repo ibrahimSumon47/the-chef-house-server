@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "name": "Chef John",
+      "experience": "12 years",
+      "recipes": 168,
+      "likes": 1230,
+      "image": "https://i.imgur.com/f8RoC6t.jpg",
+      "bio": "Chef John has over a decade of experience in the culinary arts, with a focus on traditional French cuisine. He has developed 168 unique recipes that showcase his passion for flavor and presentation. With over 1230 likes on his most popular dishes, Chef John is a crowd favorite."
+    },
+    {
+      "id": 2,
+      "name": "Chef Maria",
+      "experience": "8 years",
+      "recipes": 92,
+      "likes": 850,
+      "image": "https://i.imgur.com/fDhAnYE.jpg",
+      "bio": "Chef Maria is a rising star in the world of modern fusion cuisine, blending traditional flavors with innovative techniques. With 92 recipes under her belt, she has quickly amassed a following of 850 fans who appreciate her creative take on classic dishes."
+    },
+    {
+      "id": 3,
+      "name": "Chef David",
+      "experience": "15 years",
+      "recipes": 212,
+      "likes": 1625,
+      "image": "https://i.imgur.com/6whg0RW.jpg",
+      "bio": "With over 15 years of experience in fine dining, Chef David brings a wealth of knowledge to the table. He has created over 212 recipes that showcase his mastery of technique and flavor. His dishes have received over 1625 likes, and he is known for his elegant plating and attention to detail."
+    },
+    {
+      "id": 4,
+      "name": "Chef Sarah",
+      "experience": "6 years",
+      "recipes": 48,
+      "likes": 360,
+      "image": "https://i.imgur.com/XxKxMcq.jpg",
+      "bio": "Chef Sarah is a self-taught cook who has honed her skills through years of experimentation and practice. She has developed 48 recipes that showcase her unique style, blending flavors from around the world. With 360 likes on her most popular dishes, she has proven that talent and hard work can overcome lack of formal training."
+    },
+    {
+      "id": 5,
+      "name": "Chef Roberto",
+      "experience": "10 years",
+      "recipes": 128,
+      "likes": 975,
+      "image": "https://i.imgur.com/QOEGyph.jpg",
+      "bio": "Chef Roberto specializes in traditional Italian cuisine, with a focus on fresh ingredients and simple preparations. He has developed 128 recipes that showcase his love of bold flavors and rustic presentation. With 975 likes on his most popular dishes, Chef Roberto has become a go-to source for authentic Italian recipes."
+    },
+    {
+      "id": 6,
+      "name": "Chef Emily",
+      "experience": "3 years",
+      "recipes": 19,
+      "likes": 145,
+      "image": "https://i.imgur.com/6ioW8mi.jpg",
+      "bio": "Chef Emily is a young talent who is making waves in the world of plant-based cuisine. She has developed 19 recipes that showcase her creative use of vegetables and plant-based proteins. With 145 likes on her most popular dishes, she is quickly building a following of fans who appreciate her healthy and innovative approach to cooking."
+    }
+  ]
+  
