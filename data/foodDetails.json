@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "image_url": "https://www.allrecipes.com/thmb/0xH8n2D4cC97t7mcC7eT2SDZ0aE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6776_Pizza-Dough_ddmfs_2x1_1725-fdaa76496da045b3bdaadcec6d4c5398.jpg",
+    "food_name": "Pizza",
+    "post_title": "Delicious Pizza Recipe",
+    "user_img": "https://img.freepik.com/free-photo/waist-up-portrait-handsome-serious-unshaven-male-keeps-hands-together-dressed-dark-blue-shirt-has-talk-with-interlocutor-stands-against-white-wall-self-confident-man-freelancer_273609-16320.jpg?w=740&t=st=1683053698~exp=1683054298~hmac=c2ed7b63c871efb45513afb12e34e5f19ea96eb7e64385eb189b04078cd37b3d",
+    "user_name": "John",
+    "viewers": 1200
+  },
+  {
+    "id": 2,
+    "image_url": "https://c.ndtvimg.com/2022-06/gp4k2jro_burgers_625x300_20_June_22.jpg?im=FeatureCrop,algorithm=dnn,width=620,height=350?im=FaceCrop,algorithm=dnn,width=1200,height=886",
+    "food_name": "Burger",
+    "post_title": "Best Burger in Town",
+    "user_img": "https://img.freepik.com/free-photo/cheerful-curly-business-girl-wearing-glasses_176420-206.jpg?w=740&t=st=1683053748~exp=1683054348~hmac=ea7ce252e9222b003260da3836a09f9b39dd58876a5fa2bc8b89173de117831e",
+    "user_name": "Sarah",
+    "viewers": 980
+  },
+  {
+    "id": 3,
+    "image_url": "https://images-gmi-pmc.edge-generalmills.com/e59f255c-7498-4b84-9c9d-e578bf5d88fc.jpg",
+    "food_name": "Tacos",
+    "post_title": "Spicy Tacos Recipe",
+    "user_img": "https://img.freepik.com/free-photo/portrait-smiling-young-man-eyewear_171337-4842.jpg?w=740&t=st=1683053792~exp=1683054392~hmac=10d5375ed54e00e26f928765d31aa04ea0dca1214df3b425054df399e97f1910",
+    "user_name": "Mike",
+    "viewers": 1500
+  },
+  {
+    "id": 4,
+    "image_url": "https://img.taste.com.au/3mYHXsD_/taste/2016/11/sushi-for-kids-81300-1.jpeg",
+    "food_name": "Sushi",
+    "post_title": "Fresh Sushi Rolls",
+    "user_img": "https://img.freepik.com/free-photo/cheerful-confident-female-smiling-camera-cross-arms-chest_176420-17284.jpg?w=740&t=st=1683053862~exp=1683054462~hmac=0ae2d014442499b5d3ff642c547fb04c27f84ab3387cc6d14ff939fd2c11fe71",
+    "user_name": "Jasmine",
+    "viewers": 2000
+  },
+  {
+    "id": 5,
+    "image_url": "https://www.thechunkychef.com/wp-content/uploads/2017/08/One-Pot-Chicken-Parmesan-Pasta-feat.jpg",
+    "food_name": "Pasta",
+    "post_title": "Creamy Pasta Recipe",
+    "user_img": "https://img.freepik.com/free-photo/handsome-bearded-guy-posing-against-white-wall_273609-20597.jpg?w=740&t=st=1683053955~exp=1683054555~hmac=66a30d6bbd7d6fe43a6a401d4684b410ab22fc27b83ceeb9f9295de396b2a697",
+    "user_name": "Mark",
+    "viewers": 800
+  },
+  {
+    "id": 6,
+    "image_url": "https://www.chilipeppermadness.com/wp-content/uploads/2023/01/Buldak-Ramen-SQ-500x375.jpg",
+    "food_name": "Ramen",
+    "post_title": "Homemade Ramen Noodles",
+    "user_img": "https://img.freepik.com/free-photo/confident-happy-brunette-businesswoman-posing-studio_176420-29819.jpg?w=740&t=st=1683054081~exp=1683054681~hmac=5e2481a8b92b4290aaa25f860495a8c54caed69cfc3e3ec57728c11b2eda414c",
+    "user_name": "Emily",
+    "viewers": 1200
+  },
+  {
+    "id": 7,
+    "image_url": "https://example.com/food7.jpg",
+    "food_name": "Steak",
+    "post_title": "Juicy Steak Recipe",
+    "user_img": "https://example.com/user7.jpg",
+    "user_name": "David",
+    "viewers": 600
+  },
+  {
+    "id": 8,
+    "image_url": "https://example.com/food8.jpg",
+    "food_name": "Fried Chicken",
+    "post_title": "Crispy Fried Chicken Recipe",
+    "user_img": "https://example.com/user8.jpg",
+    "user_name": "Katie",
+    "viewers": 1000
+  },
+  {
+    "id": 9,
+    "image_url": "https://example.com/food9.jpg",
+    "food_name": "S'mores",
+    "post_title": "Campfire S'mores Recipe",
+    "user_img": "https://example.com/user9.jpg",
+    "user_name": "Tom",
+    "viewers": 500
+  },
+  {
+    "id": 10,
+    "image_url": "https://example.com/food10.jpg",
+    "food_name": "Pad Thai",
+    "post_title": "Authentic Pad Thai Recipe",
+    "user_img": "https://example.com/user10.jpg",
+    "user_name": "Natalie",
+    "viewers": 700
+  },
+  {
+    "id": 11,
+    "image_url": "https://example.com/food11.jpg",
+    "food_name": "Sushi Burrito",
+    "post_title": "Fusion Sushi Burrito Recipe",
+    "user_img": "https://example.com/user11.jpg",
+    "user_name": "Peter",
+    "viewers": 1100
+  },
+  {
+    "id": 12,
+    "image_url": "https://example.com/food12.jpg",
+    "food_name": "Ceviche",
+    "post_title": "Fresh Ceviche Recipe",
+    "user_img": "https://example.com/user12.jpg",
+    "user_name": "Lena",
+    "viewers": 900
+  }
+]

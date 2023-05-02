@@ -6,6 +6,8 @@ const cors = require("cors");
 
 const chefDetails = require("./data/chefDetails.json");
 
+const foodDetails = require("./data/foodDetails.json");
+
 app.use(cors());
 
 app.get("/", (req, res) => {
@@ -14,6 +16,10 @@ app.get("/", (req, res) => {
 
 app.get("/chef_details", (req, res) => {
   res.send(chefDetails);
+});
+
+app.get("/food_details", (req, res) => {
+  res.send(foodDetails);
 });
 
 app.listen(port, () => {
