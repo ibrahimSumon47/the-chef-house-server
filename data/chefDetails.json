@@ -1,30 +1,34 @@
 [
   {
     "id": 1,
-    "chef_picture": "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fe1010e0c-37d5-11ea-9e00-2e9f417bebfa.jpg?crop=1875%2C1250%2C0%2C0",
+    "chef_picture1": "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fe1010e0c-37d5-11ea-9e00-2e9f417bebfa.jpg?crop=1875%2C1250%2C0%2C0",
+    "chef_picture2": "https://i.ibb.co/C06Njxp/methode-times-prod-web-bin-eb055070-b8ad-11eb-9a91-c8c89595f50e-5-1200x600.jpg",
     "chef_name": "Alain Ducasse",
     "experience": "More than 35 years",
-    "bio_description": "Alain Ducasse is one of the most celebrated chefs in the world, with more than 35 years of experience in the industry. He has opened more than 30 restaurants around the globe and has been awarded 21 Michelin stars in total.",
+    "bio_description": "Alain Ducasse is one of the most celebrated chefs in the world, with more than 35 years of experience in the industry.",
     "Likes": 5000,
     "recipes": {
       "recipes_number": 3,
       "recipes_details": [
         {
-          "recipe_img": "https://assets.epicurious.com/photos/54b195e1a801766f773f40d9/1:1/w_1920,c_limit/394871_squash-gratin_1x1.jpg",
+          "_id": 1,
+          "recipe_img": "https://i.ibb.co/JkbxYXC/394871-squash-gratin-1x1-600x400.webp",
           "recipe_name": "Squash Gratin",
           "ingredients": "2 1/4 pounds of winter squash,2 slices of bacon 1/8 inch thick, 4 garlic cloves (unpeeled but crushed), 1 sprig of rosemary,salt",
           "cooking_method": "Peel 2 1/4 pounds of winter squash and cut into cubes. Preheat the oven to 450°F. In a large ovenproof pot, brown 2 slices of bacon 1/8 inch thick for 5 minutes, turning them over. Add the cubes of squash, 4 garlic cloves (unpeeled but crushed), 1 sprig of rosemary, and a little salt. Cover with parchment paper and put in the oven for 30 minutes. Lower the oven temperature to 350°F, remove the parchment paper, and cook for an additional 30 minutes. In the meantime, heat a dry skillet and toast a handful of dried pumpkin seeds. Cool on paper towels, then crush. When the squash is cooked, take the pot out of the oven and turn on the broiler. Throw away the rosemary and the peel of the garlic cloves. Remove the slices of bacon and cut into small lardons. Mash the squash and garlic with a fork and add the lardons. Stir and adjust the seasoning with plenty of freshly ground black pepper. Sprinkle the top of the gratin with pumpkin seeds. With a vegetable peeler, shave 1 ounce of pecorino or Parmesan cheese into small flakes and sprinkle evenly over the gratin. Put under the broiler for about 2 minutes to brown the top. Serve immediately.",
           "rating": 4.9
         },
         {
-          "recipe_img": "https://allthemeals.com/meallogo/217/Alain%20Ducasse%20Quiche%20Lorraine-217-5758s.png",
+         "_id": 2, 
+          "recipe_img": "https://i.ibb.co/SQKr9cx/Alain-Ducasse-Quiche-Lorraine-217-5758s-600x400.png",
           "recipe_name": "Quiche Lorraine",
           "ingredients": "17 2/3 ounces (500 g) type 55 flour, 1/3 ounce (10 g) fine salt, 10 ½ ounces (300 g) butter, 1 egg yolk, 2 ¾ ounces (80 g) flour, for dusting ¾ ounce (10g) butter for dusting, Water as needed",
           "cooking_method": "Make your own dough: sift 250 g of flour into a fountain. In the center 1 pinch of salt, 125 g of hazelnut butter and 1 egg yolk. Mix with your fingertips, until you get a ball of dough and then set aside. Roll the pastry into a ball without working the dough any further. Cover with plastic wrap and refrigerate so that the dough becomes firmer and loses any remaining elasticity. Scatter the bacon and the Gruyère evenly into the crusts. Pour the custard mixture over them. Bake in a 350°F convection oven for 30 minutes.",
           "rating": 4.8
         },
         {
-          "recipe_img": "https://allthemeals.com/meallogo/221/Alain%20Duncasse%20Greek-Style%20Tender%20Vegetables-221-498s.png",
+          "_id": 3,
+          "recipe_img": "https://i.ibb.co/mCybW6g/Alain-Duncasse-Greek-Style-Tender-Vegetables-221-498s-600x400.png",
           "recipe_name": "Greek-Style Tender Vegetables",
           "ingredients": "8 carrots, 2 fennel, 2 white fresh onions, 1 green courgette, 15cm length of celery, 2 turnips, 50ml of vegtable stock (chicken stock for non-vegetarians)",
           "cooking_method": "Clean, peel and chop all the vegetables. Put all the herbs in a sterile gauze compress and close it. Cook the vegetables, except the green vegetables, and the herbs in a pan with a dash of olive oil. Pour the wine vinegar and the white wine in the pan, then add the vegetable breast stock and put the pan cover on. When the vegetables are almost cooked, add the green vegetables in the pan: the green peas, the half cucumber, the broad beans and courgette. Arrange the vegetables on the plate, the fresh herbs (chervil, cilantro and basil) and the brousse des Roves cheese.",
@@ -35,7 +39,8 @@
   },
   {
     "id": 2,
-    "chef_picture": "https://www.finedininglovers.com/sites/g/files/xknfdk626/files/Original_11878_pierre-gagnaire-finedininglovers-TP.jpg",
+    "chef_picture1": "https://www.finedininglovers.com/sites/g/files/xknfdk626/files/Original_11878_pierre-gagnaire-finedininglovers-TP.jpg",
+    "chef_picture2": "https://i.ibb.co/Fm7fPVf/cc242208483a1da18e75bbf1acc27958-1200x600.jpg",
     "chef_name": "Pierre Gagnaire",
     "experience": "40 years",
     "bio_description": "Pierre Gagnaire is a French Michelin-starred chef with over 40 years of experience in the culinary industry.",
@@ -44,21 +49,24 @@
       "recipes_number": 3,
       "recipes_details": [
         {
-          "recipe_img": "https://www.elle-et-vire.com/uploads/cache/440x270/uploads/recip/recipe/859/cr-me-au-beurre-blanc.PNG",
+          "_id": 1,
+          "recipe_img": "https://i.ibb.co/5Ls9Bs6/cr-me-au-beurre-blanc-600x400.png",
           "recipe_name": "CREAMY WHITE BUTTER SAUCE AND CHESTNUT PUREE WITH COFFEE",
           "ingredients": "150 g Excellence cooking cream 35% FAT, 50 g Elle & Vire gourmet butter 82% FAT, 50 g white vinegar, 50 g white wine, 1 shallots, Fine 'fleur de sel' sea salt and pepper",
           "cooking_method": "Cut the butter into small pieces and keep cool. In a saucepan, mix the white wine, a drop of white vinegar, salt, freshly-ground pepper and the finely-chopped shallot. Put over the heat and reduce slowly until you have around 2 cl. On a very low heat, add the pieces of cold butter and whisk energetically. Add the Excellence Whipping Cream and whisk into the butter. Emulsify well. Cook the chestnuts in the milk. Mix the chestnuts with the milk and add the espresso, to taste. Cook the slices of rutabaga in the vegetable stock, then griddle with the butter. Put together with the last ingredients.",
           "rating": 4.5
         },
         {
-          "recipe_img": "https://www.elle-et-vire.com/uploads/cache/440x270/uploads/recip/recipe/2277/6026b0f6c67ca_bra010509-crayfish-in-the-unde.jpg",
+          "_id": 2,
+          "recipe_img": "https://i.ibb.co/92kLwdm/6026b0f6c67ca-bra010509-crayfish-in-the-unde-600x400.jpg",
           "recipe_name": "CRAYFISH IN THE UNDERWOODS",
           "ingredients": "8 large langoustines, 8 strips of puff pastry (2 cm x 8 cm), 1 egg yolk, QS fleur de sel, 300 g spinach shoots, 150 g curly leaf parsley, 80 g Elle & Vire all Purpose butter 82% fat, 60 cl fresh milk, QS Excellence cooking cream 35% FAT, QS salt, QS white pepper",
           "cooking_method": "Peel the langoustines, keeping the end of the tail. Preheat the oven to 220°C. Brush the puff pastry with the egg yolk and water. Sprinkle with fleur de sel and bake in the oven on a baking sheet covered with greaseproof paper a 170°C for 30 minutes. Set aside. Blanch the spinach and the curly-leaf parsley. Drain and press well to remove all of the cooking water. Make a beurre noisette, then stop the cooking process with the cold milk and some of the cream. Mix in the blender, adding the above mixture. Whip the other part of the cream. Quickly sear the langoustines in the butter. Take care not to burn the butter as it will be used to dress the salad leaves and coriander. Clean the mushrooms and cut them in half if they are too big. Fry the mushrooms in the butter, add the shallot, season with a little salt and add the chives at the last minute. Put the green coulis back on a gentle heat, add the whipped cream and check the seasoning. Dress the plate as in the photo adding the nuts. (placed in 100 ml of milk for freshness)",
           "rating": 4.2
         },
         {
-          "recipe_img": "https://www.elle-et-vire.com/uploads/cache/440x270/uploads/recip/recipe/1989/5e297d54920b9_jag-3432.jpg",
+          "_id": 3,
+          "recipe_img": "https://i.ibb.co/kKzqrxT/5e297d54920b9-jag-3432-600x400.jpg",
           "recipe_name": "NATURAL SEA BASS",
           "ingredients": "400 g peas in their pods, 16 lemon balm leaves, 100 g Excellence cooking cream 35% FAT, 50 g Elle & Vire Professionnel® Gourmet Butter, Unsalted 82% fat, SQ water",
           "cooking_method": "Set 16 nice pea pods to one side. Shell the remainder and cook on a gentle boil in salted water. Blend the peas with a little water and the lemon balm leaves. Pass through a sieve. Bring the cream to a boil. Add the boiling cream and the butter. Keep warm. Cook the 16 pea pods on a gentle boil in salted water, then cool immediately. Remove the stones from the apricots. Fry them in the butter, set aside 8 apricot halves. Blend the remaining apricots, pass them through a sieve and add hot cream. Keep warm. Salt the sea bass fillets a few minutes beforehand, then roast them in foamy butter with a pinch of Matcha tea powder and lime zests and add a little lime juice at the end of cooking. Begin plating with the pea mousseline, apricot marmalade, sea bass fillet, pea pods, and an apricot half. Finish with the fresh almonds and the dill",
@@ -69,7 +77,8 @@
   },
   {
     "id": 3,
-    "chef_picture": "https://cdn.vox-cdn.com/thumbor/paq1d0tUC0sK03G0-TMrpb3LgqA=/20x0:479x344/1200x800/filters:focal(20x0:479x344)/cdn.vox-cdn.com/uploads/chorus_image/image/39069258/martin-berasategui-eater-inteview-2012.0.jpg",
+    "chef_picture1": "https://cdn.vox-cdn.com/thumbor/paq1d0tUC0sK03G0-TMrpb3LgqA=/20x0:479x344/1200x800/filters:focal(20x0:479x344)/cdn.vox-cdn.com/uploads/chorus_image/image/39069258/martin-berasategui-eater-inteview-2012.0.jpg",
+    "chef_picture2": "https://i.ibb.co/sbP3FvM/martin-berasategui-gizpukoa-the-local-tongue-2-1200x600.jpg",
     "chef_name": "Martin Berasategui",
     "experience": "40+ years",
     "bio_description": "Martin Berasategui is a Spanish chef with over 40 years of experience. He is known for his innovative cooking techniques and his 12 Michelin stars.",
@@ -78,21 +87,24 @@
       "recipes_number": 3,
       "recipes_details": [
         {
-          "recipe_img": "https://img-global.cpcdn.com/recipes/61a1b45c32dc7d91/680x482cq70/chicken-shawarma-w-white-sauce-and-fluffy-yellow-rice-recipe-main-photo.jpg",
+          "_id": 1,
+          "recipe_img": "https://i.ibb.co/P1d26YY/chicken-shawarma-w-white-sauce-and-fluffy-yellow-rice-recipe-main-photo-600x400.jpg",
           "recipe_name": "Chicken Shawarma w/ White Sauce and Fluffy Yellow Rice",
           "ingredients": "Get Chicken Thighs *bone in, skin on preferred, Make ready Olive Oil, Make ready Minced Garlic, Get Lemon Juice, Get Cumin Powder",
           "cooking_method": "Marinate the Chicken Thighs for 2-24 hours - -1 tbsp olive oil - -1 tbsp minced garlic - -1 tbsp cumin powder - -1 tbsp of paprika - -1/2 tbsp black pepper - -1/2 tbsp of salt - -1/2 tbsp of coriander - -1/2 tbsp of cayenne - -1/2 tbsp of lemon juice - -1/2 tbsp of garlic powder - -1/2 tbsp of oregano. For the White Sauce add the following ingredients in a bowl and mix together: - -4 tsbp of Mayo - -2 tbsp of Plain Yogurt - -1 tbsp of Water - -1/2 tsp of salt - -1/2 tsp of black pepper - -1/2 tsp of sugar - -1/2 tsp of white vinegar - -1/2 tsp of lemon juice - -1/2 tsp of parsley flakes. For the Fluffy Yellow Rice: - -melt a tbsp of butter in the pot - -add 2 cup rice - -add tsp of cumin, turmeric, adobo seasoning, paprika - -add 1/2 tsp cayenne - toast rice with butter and seasonings for 2 minutes - -add 2 cups chicken stock/1 cups water - bring to a boil. Once boiling turn down to simmer, cover and let cook for 12 minutes. Preheat Oven to 350 F/ 175 C. Once the chicken thighs have finished marinating, fire up the grill, cast iron or just a pan on the stove. The aim is to sear/char both sides of the chicken to seal all the flavors inside the chicken. Aim for an internal temperature of around 170 F/ 76 C. After giving both side a nice sear you can place the chicken in the over for 10-15 minutes checking the internal temperature of the chicken until it is at your desired temperature. Cut up chicken, put on top of a bed of rice, drizzle the white sauce and some sriracha, add a side salad and ENJOY!",
           "rating": 4.5
         },
         {
-          "recipe_img": "https://img-global.cpcdn.com/recipes/5323196879339520/680x482cq70/chicken-breast-with-white-bean-and-apple-salsa-and-sauteed-butternut-squash-and-feta-recipe-main-photo.jpg",
+          "_id": 2,
+          "recipe_img": "https://i.ibb.co/5Rjdzyj/chicken-breast-with-white-bean-and-apple-salsa-and-sauteed-butternut-squash-and-feta-recipe-main-pho.jpg",
           "recipe_name": "Chicken Breast with White Bean and Apple Salsa and Sautéed Butternut Squash and Feta",
           "ingredients": "Take 8 oz chicken, boneless, skinless, Make ready 1 Kosher salt, to taste, Make ready 1 Black pepper, to taste, Make ready White Bean and Apple Salsa, Take 2 each scallions, chopped, greens and whites separated",
           "cooking_method": "Season the chicken with kosher salt and black pepper, and set aside at room temperature. Combine the whites of the scallions, beans, apple, cider vinegar, sage, parsley, and olive oil. Stir well, and season to taste with salt and pepper. Heat a large sauté pan over medium-high heat, then add 1 tablespoon of vegetable oil. Cook chicken until browned on first side, then flip and sauté until chicken is cooked through. Remove chicken from the pan and set aside. Over medium-high heat, add 2 more tablespoons of vegetable oil. Add squash cubes. Stir briefly, then arrange in a single layer, and cook without stirring for about 5 minutes to brown the bottom sides. Sprinkle with cumin, salt and pepper, and stir to turn cubes - and continue to cook until tender and browned all over. Adjust salt and pepper to taste, then add scallion greens. Remove from heat, and add crumbled feta. Serve chicken breasts with white bean and apple salsa along with a side of sautéed butternut squash and feta. Enjoy!",
           "rating": 4.7
         },
         {
-          "recipe_img": "https://img-global.cpcdn.com/recipes/8740d7560891d882/680x482cq70/steak-with-turmeric-rice-and-chilli-chutney-recipe-main-photo.jpg",
+          "_id": 3,
+          "recipe_img": "https://i.ibb.co/gRSq9pQ/steak-with-turmeric-rice-and-chilli-chutney-recipe-main-photo-600x400.jpg",
           "recipe_name": "Steak with Turmeric Rice and Chilli Chutney",
           "ingredients": "Take 300 gr beef scotch fillet, Prepare Turmeric rice, Prepare 1 cup white rice, Take 1 cup coconut milk, Take 1 cup water",
           "cooking_method": "Heat up coconut milk with lemongrass,ginger,garlic,kaffir lime, turmeric ground, salt and 1 cup water. Simmer for 10 mins, then add the rice, mix well, let it boil and turn the heat down, cover with lid for 15mins. While waiting for the rice, fry diced eggplant with salt and tomato to mix with the rice later on. Blitz capsicum, chilli,shallot,candlenut together till rough texture. Add 1/4 cup oil, cook garlic mince and chilli mixture then palm sugar, slowly stir until you see the oil dries up the chilli. Sear a nice cut of steak, season with salt and pepper, cook up to your liking.",
@@ -103,30 +115,34 @@
   },
   {
     "id": 4,
-    "chef_picture": "https://i0.wp.com/thechefsconnection.com/wp-content/uploads/2021/07/Yannick_Alleno___Roberto_Frankenberg.jpg",
+    "chef_picture1": "https://i0.wp.com/thechefsconnection.com/wp-content/uploads/2021/07/Yannick_Alleno___Roberto_Frankenberg.jpg",
+    "chef_picture2": "https://i.ibb.co/YPw1JZh/yannick-alleno-a-lhotel-hermitage-monte-carlo-jpg-1-1200x600.jpg",
     "chef_name": "Yannick Alléno",
     "experience": "30+ years",
     "bio_description": "Yannick Alléno is a three-star Michelin chef and one of the most celebrated chefs in the world. He is known for his innovative approach to cooking and his passion for using the freshest, highest-quality ingredients.",
-    "likes": 5000,
+    "Likes": 5000,
     "recipes": {
       "recipes_number": 3,
       "recipes_details": [
         {
-          "recipe_img": "https://therestaurantco.me/wp-content/uploads/2021/03/101-Dining-Lounge-and-Marina-Seafood-and-Chicken-Paella-2-731x1024.jpg",
+          "_id": 1,
+          "recipe_img": "https://i.ibb.co/kmwgP2X/101-Dining-Lounge-and-Marina-Seafood-and-Chicken-Paella-2-731x1024-600x400.jpg",
           "recipe_name": "Seafood Paella",
           "ingredients": "1 onion, 2 garlic cloves, 2 tomatoes, 1 red pepper, 1 green pepper, 1 yellow pepper, 500g mixed seafood (mussels, clams, prawns, squid), 300g bomba rice, 1 tsp smoked paprika, 1 pinch saffron threads, 1L fish stock, 1 lemon",
           "cooking_method": "1. Heat the oil in a paella pan over medium heat. 2. Add the onion and garlic and cook for 2-3 minutes until softened. 3. Add the tomatoes and peppers and cook for 5-6 minutes until softened. 4. Add the seafood and rice and stir well to combine. 5. Sprinkle over the smoked paprika and saffron threads and pour in the fish stock. 6. Bring to a boil, then reduce the heat to low and simmer for 20-25 minutes until the rice is tender. 7. Squeeze over the lemon juice and serve.",
           "rating": 4.5
         },
         {
-          "recipe_img": "https://emirateswoman.com/wp-content/uploads/2014/04/4.Light-rice-cream.jpg",
+          "_id": 2,
+          "recipe_img": "https://i.ibb.co/HPWdPw6/4-Light-rice-cream-600x400.jpg",
           "recipe_name": "LIGHT RICE CREAM OF WASABI PEARLS AND MACKEREL PETALS",
           "ingredients": "100g of basmati rice, 3 gelatin leaf, ½ cup dark chocolate chips, 3.5cl of liquid cream, salt, pepper mill",
           "cooking_method": "Cook rice in 40ml water for 20 minutes. When rice is cooked mix everything and pass through a conical strainer. Retrieve 20cl. Add the gelatin previously rehydrated in cold water. Keep cold. Gently fold the cream previously whipped and adjust seasoning. Add mixture in flexible moulds (3cm diameter) and freeze in refrigerator for an hour. Carefully remove the skin of the mackerel fillets. Prune petal of mackerel and season with a trickle of olive oil and pure sea salt. In a pearly shell drop off the light rice cream, place harmoniously petals of mackerel and add some drops of mayonnaise mixed with wasabi. Add the seaweed nori leaves cut in julienne (thinly shredded).",
           "rating": 4.2
         },
         {
-          "recipe_img": "https://emirateswoman.com/wp-content/uploads/2014/04/4.Entrecote-strips-confit-tomatoes-with-basil-grated-truffle-and-parmesan.jpg",
+          "_id": 3,
+          "recipe_img": "https://i.ibb.co/tPF0hMm/4-Entrecote-strips-confit-tomatoes-with-basil-grated-truffle-and-parmesan-600x400.jpg",
           "recipe_name": "ENTRECOTE STRIPS, CONFIT TOMATOES WITH BASIL, GRATED TRUFFLE AND PARMESAN",
           "ingredients": "4 pieces of steak of 150g each, 1kg beef adornment, 10cl peanut oil, 100g carrots, 100g onions, 1 clove of garlic, 1 spring of thyme, 50g butter",
           "cooking_method": "Season the steak. In a hot sauté pan, fry strongly on each side with a little oil. Remove and let stand for 5 minutes on a stainless steel grid. Heat the tomato confit in the oven at 180°C for about 5 minutes. On a plate, place the entrecote strips and cover with an agar rectangle. Place the dish under the broiler for a few moments. Draw a petal with the tomato confit on a small plate on the side. Add pepper. Grate at the last moment with black truffle and Parmesan.",
@@ -137,30 +153,34 @@
   },
   {
     "id": 5,
-    "chef_picture": "https://prod-upp-image-read.ft.com/39a0f658-0336-11e7-aa5b-6bb07f5c8e12",
+    "chef_picture1": "https://prod-upp-image-read.ft.com/39a0f658-0336-11e7-aa5b-6bb07f5c8e12",
+    "chef_picture2": "https://i.ibb.co/J3m4BmQ/84ff89ba3d9a49cb96bdfc300addcfd0-Chef-Anne-Sophie-Pic-Raffles-Hotel-Singapore-La-Dame-De-Pic-1-1200x.jpg",
     "chef_name": "Anne-Sophie Pic",
     "experience": "20+ years",
     "bio_description": "Anne-Sophie Pic is a three-star Michelin chef and the first woman in France to hold three Michelin stars in over 50 years. She is known for her refined, creative cuisine that draws on local and seasonal ingredients.",
-    "likes": 7500,
+    "Likes": 7500,
     "recipes": {
       "recipes_number": 3,
       "recipes_details": [
         {
-          "recipe_img": "https://anne-sophie-pic.com/wp-content/uploads/2020/03/90672394_130526521857272_5068446322789989853_n.jpg",
+          "_id": 1,
+          "recipe_img": "https://i.ibb.co/TwkKXHS/90672394-130526521857272-5068446322789989853-n-600x400.webp",
           "recipe_name": "CREME CARAMEL WITH MUSCOVADO SUGAR",
           "ingredients": "0.5 vanilla pod, 50 cl whole milk, 2 whole eggs, 2 egg yolks, 100 g sugar.",
           "cooking_method": "In a saucepan, combine the two sugars and the water. Bring to a boil then cook over medium heat. Meanwhile, place the baking molds in front of you. Immerse the thermometer in the boiling sugar: when the temperature reaches 160 ° C, remove the pan from the heat. immediately pour a layer of about 2 cm of caramel into the molds, then let cool. Cut the half vanilla pod in half lengthwise. scrape the inside with a small knife to collect the small black seeds. dans une casserole, faites bouillir le lait avec la vanille et ses graines. in a saucepan, boil the milk with the vanilla and its seeds. in a bowl, quickly mix the whole eggs, the yolks and the sugar with a hand whisk. gradually pour in the hot vanilla milk, then mix with the hand whisk. Preheat the oven to 160 ° C (th. 5-6). Remove the half vanilla pod. delicately, with a small ladle, fill the caramelized molds with the egg cream, place in a plate with high edges, then pour a little hot water into it, almost at the height of the molds, to make a double boiler. bake for 15 to 20 minutes of cooking, depending on the size of the molds. In order not to be mistaken, look at the consistency of the cream: it must have coagulated but must remain trembling, and above all not harden too much. Remove the mussels from the oven and double boiler, then place them in the refrigerator for at least 2 hours. Serve chilled!",
           "rating": 4.7
         },
         {
-          "recipe_img": "https://anne-sophie-pic.com/wp-content/uploads/2020/03/tatin.jpg",
+          "_id": 2,
+          "recipe_img": "https://i.ibb.co/y4DvtHF/tatin-600x400.webp",
           "recipe_name": "THE TATIN PIE TONKA BEAN",
           "ingredients": "300 g flour, 5 g salt, 250 g butter, 15 cl of water, 22 cm mould, rolling pin, grater",
           "cooking_method": "Weigh the ingredients of the recipe. Cut the butter into large cubes and leave it at room temperature for 15 minutes. In the bowl of an electric mixer, combine the flour, salt, butter and water. Mix the ingredients with the hook to obtain a non-homogeneous dough: the butter cubes should not be completely incorporated, they remain visible in the dough. Put the dough on a floured work surface. Put the dough on a floured worktop. Form a ball with your hands. Flour the ball. With a rolling pin, roll out the ball to form a long strip 1 cm thick. Fold this strip on itself in three. Rotate the dough a quarter turn on itself and spread it again, as before. Put the dough in the fridge for 15 minutes. Repeat these operations twice more, without forgetting to put the dough in the fridge between each spreading. Each time you fold the dough, you “give the dough a turn”: for each given turn, make a mark on the dough to remind you where you stand. Melt the butter in the pan over medium heat. Peel the apples, cut them in half, remove the heart and seeds. Place the apple halves in the mould by tightening them well so that the bottom is completely covered, without leaving any free space. Sprinkle the apples with the lemon juice. Spread over the apples sugar with the finely grated tonka bean, as evenly as possible. Place the mould on a very low heat. During baking, turn the mould regularly so that the apples caramelise perfectly and evenly. This process takes about 50 minutes to 1 hour. Then remove the mould from the heat. Preheat the oven to 200 °C (th. 6-7). Meanwhile, spread the puff pastry and form a circle corresponding to the size of the mold. Remove from heat, cover the apples with puff pastry, put in the oven and cook for 15 to 20 minutes. At the end of cooking, the pastry should be light blond, but no more. Stop cooking by soaking the bottom of the mould in a basin of cold water (without wetting the dough). Leave the caramel to cool for 30 minutes. To unmould the Tatin tart easily, warm the bottom of the tin over a fairly high heat for a few moments to soften the caramel. Turn the tart over onto a serving dish and serve.",
           "rating": 4.5
         },
         {
-          "recipe_img": "https://anne-sophie-pic.com/wp-content/uploads/2020/03/90502891_2260649837572059_4151975438518650865_n.jpg",
+          "_id": 3,
+          "recipe_img": "https://i.ibb.co/175dCqn/90502891-2260649837572059-4151975438518650865-n-600x400.webp",
           "recipe_name": "VEAL 'BLANQUETTE' REVISITED",
           "ingredients": "600 g veal meat for stewing (shoulder, almost), 1.5 l vegetable broth, 1 bouquet garni, 1 clove, 1 pinch of salt",
           "cooking_method": "Cut the meat into pieces about 5 cm square. place them in a saucepan and cover with cold water. Bring to a boil, remove from heat, remove the meat and discard the water. put the meat back in the pan, this time with the vegetable broth, the bouquet garni, the clove and the salt. Bring to a boil then cook for 1 hour at a very low broth, taking care that the meat is always covered with liquid. at the end of cooking, remove from heat. keep the meat warm in the cooking juices so that it does not dry out. in a saucepan, heat the cooking juices with the agar-agar. Bring to a boil then remove from the heat. strain with a fine strainer, let cool, then add the mustard, lemon juice and egg white. Salt lightly. pour the preparation into a siphon and place it in a container of warm water, in a double boiler (the water should be at 50 ° C, if you have a thermometer). Peel and cut the carrots into rings, a little beveled if possible. Wash the leeks and peel the small turnips and the mushrooms (cut their stems). cook all the vegetables (except the mushrooms) separately in boiling salted water for about 5 or 6 minutes. drain them then immerse them in a bowl of cold water to stop cooking and fix their color. drain them again. before serving, cook the button mushrooms in a frying pan over a low heat, with a dash of olive oil, for 5 min. add the other vegetables, cook for another 3 min, then pour a little cooking juices. Let cook 3 or 4 min. Take it off the fire. adjust the seasoning and keep warm. Close the siphon and engage a gas cartridge. drain the hot pieces of meat and then distribute them on a plate. harmoniously place the different vegetables on top. finish by depositing the sauce using the siphon. Serve immediately.",
@@ -171,30 +191,34 @@
   },
   {
     "id": 6,
-    "chef_picture": "https://parade.com/.image/t_share/MTkwNTc4MTE4NTMyMDE1OTk2/gordonramsay_kitchenmaster-ftr.jpg",
+    "chef_picture1": "https://parade.com/.image/t_share/MTkwNTc4MTE4NTMyMDE1OTk2/gordonramsay_kitchenmaster-ftr.jpg",
+    "chef_picture2": "https://i.ibb.co/y4f6NQm/methode-times-prod-web-bin-acb268da-141e-11ed-b5dc-213f5c972cc4-1-1200x600.jpg",
     "chef_name": "Gordon Ramsay",
     "experience": "30+ years",
-    "bio_description": "Gordon Ramsay is a British chef, restaurateur, and television personality. He has owned and operated a number of highly successful restaurants around the world, and is known for his fiery personality and high standards in the kitchen.",
-    "likes": 10000,
+    "bio_description": "Gordon Ramsay is a British chef, restaurateur, and television personality. He has owned and operated a number of highly successful restaurants around the world.",
+    "Likes": 10000,
     "recipes": {
       "recipes_number": 3,
       "recipes_details": [
         {
-          "recipe_img": "https://www.gordonramsay.com/assets/Uploads/_resampled/CroppedFocusedImage192072050-50-RoastBeef.jpg",
+          "_id": 1,
+          "recipe_img": "https://i.ibb.co/YXF85Q9/Cropped-Focused-Image192072050-50-Roast-Beef-1-600x400.jpg",
           "recipe_name": "ROAST BEEF WITH CARAMELISED ONION GRAVY",
           "ingredients": "1 head of garlic (about 12 cloves), cut in half, 5 thyme sprigs, leaves picked, plus 1 extra, 1.8kg beef sirloin, 3 to 4 tbsp olive oil, 4 large onions, sliced, 150g plain flour, 500ml red wine, 1.5 litres hot beef stock",
           "cooking_method": "Rub the garlic halves and thyme leaves all over the beef. Place the joint in a large dish, drizzle over the olive oil, then rub it into the meat all over. Cover and leave to marinate in the fridge for 1–2 days before you cook it (you don’t have to marinate the beef in advance, but it does make it super tasty! – see Tip). Take the beef out of the fridge about an hour before cooking, to let it come up to room temperature. Preheat the oven to 190°C/170°C fan/Gas 5. Preheat a dry frying pan until very hot, then sear the beef over a high heat until it’s coloured on all sides. Place the beef in a large, hob-proof roasting tray with the garlic halves and the thyme sprig and roast for about 45 minutes for medium rare (or until it reaches 45–47°C in the centre, if you have a meat thermometer). Add 10–12 minutes for medium (or until it reaches 55–60°C in the centre), or add about 20 minutes if you like it well done (or until it reaches 65–70°C in the centre). Transfer the beef to a warm platter, cover loosely with foil and leave to rest for at least 20 minutes, and anything up to 40 minutes, before serving. Meanwhile, to make the gravy, place the roasting tray over a low heat on the hob, add the onions to the juices in the tray and cook gently for about 20 minutes, stirring occasionally, until really soft and caramelised. Stir in the flour until combined, then whisk in the red wine, making sure there are no lumps. Bring to the boil, whisking, then bubble rapidly until the red wine has reduced by half. Stir in the hot stock, then cook over a medium heat for about 8 minutes, stirring occasionally, until reduced to a thick gravy. Carve the beef thinly and pour the gravy into a warm jug. Serve with Yorkshire Puddings and steamed chard.",
           "rating": 4.8
         },
         {
-          "recipe_img": "https://www.gordonramsay.com/assets/Uploads/_resampled/CroppedFocusedImage192072050-50-DSCF1163.jpg",
+          "_id": 2,
+          "recipe_img": "https://i.ibb.co/3rvr6k2/Cropped-Focused-Image192072050-50-DSCF1163-600x400.jpg",
           "recipe_name": "HOLIDAY LEMON-HERB CHICKEN THIGHS WITH A CRISPY BACON GRAVY",
           "ingredients": "8 each bone-in chicken thighs (about 3-4 pounds), Flaky sea salt and fresh cracked pepper, to taste, Olive oil, as needed, 2-3 tablespoons all-purpose flour, Pinch of chili flakes, to taste, 1 lemon, zested",
           "cooking_method": "Preheat oven to 425˚F. Prepare chicken thighs, seasoning skin-side generously with salt and pepper. Heat a large fry pan over medium-high heat, drizzle with olive oil and sear thighs, skin side down until caramelized, about 3-5 minutes. Dust chicken thighs with flour and generously season with salt, pepper, chili flakes and lemon zest. Flip thighs over and “fry” flour into rendered chicken fat for 2-3 minutes, remove chicken thighs and set aside while preparing gravy. For the gravy - Add bacon to pan, cooking until crisp and scraping up caramelized bits. Add onions and garlic to the pan, cooking until just tender and fragrant, about a minute. Slice 1 lemon into wedges and scatter around the pan along with fresh herbs, cook for another minute. Deglaze with cider and simmer until reduced by half. Stir in hot chicken stock and bring to a simmer. Return chicken thighs to the pan, skin side up, nestling into the gravy. Zest remaining lemon over chicken and season with salt, pepper, and chili flakes. Pop into the oven to roast until crispy, about 20 minutes or until juices run clear. Serve straight out of the pan, garnishing with sliced lemon and fresh herbs.  ",
           "rating": 4.7
         },
         {
-          "recipe_img": "https://www.gordonramsay.com/assets/Uploads/_resampled/CroppedFocusedImage192072050-63-Stuffed-Lamb-Spinach-Pine-Nuts-web.jpg",
+          "_id": 3,
+          "recipe_img": "https://i.ibb.co/YbgV6Nt/Cropped-Focused-Image192072050-63-Stuffed-Lamb-Spinach-Pine-Nuts-web-1-600x400.jpg",
           "recipe_name": "STUFFED LAMB WITH SPINACH AND PINE NUTS",
           "ingredients": "1 small onion, peeled and chopped, 2 garlic cloves, peeled and sliced, Olive oil, for frying, 3 tbsp pine nuts, 250g young spinach, washed, 150g feta cheese, crumbled, 1 boned saddle of lamb, about 1.75-2kg (ask your butcher to bone it for you) 1-2 tsp sumac, to taste, Sea salt and freshly ground black pepper",
           "cooking_method": "Sauté the onion and garlic in a medium-hot pan with a dash of olive oil for 5 minutes until softened. Season, then add the pine nuts and fry for about 1 minute until golden. Add the spinach and wilt briefly in the pan, tossing to mix well. Remove from the heat and stir in the feta. Lay the saddle of lamb open on a board, flesh side up. Season with salt and pepper and sprinkle over the sumac. Spoon the spinach mixture along the middle of the meat, using the fillets that run down the inside length of the meat to support the sides of the stuffing. Roll the meat around the filling and tie at intervals with string. Season the outside of the lamb all over, then chill for at least 30 minutes or overnight to help firm it up and make it easier to brown. Preheat the oven to 190°C/Gas 5. Put a roasting tray on the hob and heat until hot. Add a glug of oil and fry the joint for 10 minutes until brown all over. Transfer to the preheated oven and cook for 45-55 minutes, depending on the weight of the lamb and how pink you like it. When cooked, set aside to rest. Meanwhile, mix all the dressing ingredients together and add a little seasoning.",
